@@ -1,5 +1,5 @@
 title: Example project
 description: Project description in here.
-theme: jekyll-theme-minimal
+theme: jekyll-theme-hacker
 future: true
 baseurl: "/gh-pages-example"
